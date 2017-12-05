@@ -1,0 +1,650 @@
+Nome Disciplina: ACESSIBILIDADE DIGITAL
+Professor: BRUNO SANTANA DA SILVA
+Score: 81.82 - Ministrou : 1 vez
+
+Nome Disciplina: ALGEBRA ABSTRATA I
+Professor: LOURENA KARIN DE MEDEIROS ROCHA
+Score: 100.0 - Ministrou : 1 vez
+
+Nome Disciplina: ALGORITMO E PROGRAMACAO DE COMPUTADORES
+Professor: CARLOS AUGUSTO PROLO
+Score: 17.39 - Ministrou : 1 vez
+Professor: FERNANDO MARQUES FIGUEIRA FILHO
+Score: 64.71 - Ministrou : 1 vez
+Professor: UMBERTO SOUZA DA COSTA
+Score: 33.33 - Ministrou : 1 vez
+Professor: RAFAEL BESERRA GOMES
+Score: 22.52 - Ministrou : 4 vezes
+
+Nome Disciplina: ALGORITMOS AVANÇADOS
+Professor: MARCO CESAR GOLDBARG
+Score: 72.22 - Ministrou : 1 vez
+
+Nome Disciplina: ALGORITMOS E ESTRUTURAS DE DADOS I
+Professor: ANDRE MAURICIO CUNHA CAMPOS
+Score: 63.64 - Ministrou : 1 vez
+
+Nome Disciplina: ALGORITMOS E ESTRUTURAS DE DADOS II
+Professor: CARLOS AUGUSTO PROLO
+Score: 45.45 - Ministrou : 1 vez
+Professor: ELIZABETH FERREIRA GOUVEA GOLDBARG
+Score: 77.78 - Ministrou : 1 vez
+
+Nome Disciplina: ANÁLISE E PROJETO ORIENTADO A OBJETOS
+Professor: LYRENE FERNANDES DA SILVA
+Score: 49.77 - Ministrou : 3 vezes
+Professor: LEONARDO CUNHA DE MIRANDA
+Score: 93.33 - Ministrou : 1 vez
+
+Nome Disciplina: ARQUITETURA DE SOFTWARE
+Professor: JAIR CAVALCANTI LEITE
+Score: 100.0 - Ministrou : 2 vezes
+
+Nome Disciplina: AVALIAÇÃO DA INTERAÇÃO HUMANO-COMPUTADOR
+Professor: BRUNO SANTANA DA SILVA
+Score: 73.53 - Ministrou : 2 vezes
+
+Nome Disciplina: BANCO DE DADOS
+Professor: MARCEL VINICIUS MEDEIROS OLIVEIRA
+Score: 53.92 - Ministrou : 3 vezes
+Professor: JOAO CARLOS XAVIER JUNIOR
+Score: 100.0 - Ministrou : 1 vez
+Professor: MARCIA JACYNTHA NUNES RODRIGUES LUCENA
+Score: 100.0 - Ministrou : 1 vez
+
+Nome Disciplina: BOAS PRÁTICAS DE PROGRAMAÇÃO
+Professor: EVERTON RANIELLY DE SOUSA CAVALCANTE
+Score: 84.0 - Ministrou : 1 vez
+
+Nome Disciplina: CIRCUITOS LÓGICOS
+Professor: EDGARD DE FARIA CORREA
+Score: 48.85 - Ministrou : 2 vezes
+Professor: MARCIO EDUARDO KREUTZ
+Score: 79.0 - Ministrou : 2 vezes
+
+Nome Disciplina: COMPILADORES
+Professor: MARTIN ALEJANDRO MUSICANTE
+Score: 41.67 - Ministrou : 4 vezes
+
+Nome Disciplina: COMPUTABILIDADE
+Professor: BENJAMIN RENE CALLEJAS BEDREGAL
+Score: 100.0 - Ministrou : 1 vez
+
+Nome Disciplina: COMPUTAÇÃO GRÁFICA I
+Professor: BRUNO MOTTA DE CARVALHO
+Score: 57.14 - Ministrou : 2 vezes
+
+Nome Disciplina: CÁLCULO DIFERENCIAL E INTEGRAL I
+Professor: SAMYR SILVA BEZERRA JACOME
+Score: 41.18 - Ministrou : 1 vez
+
+Nome Disciplina: DESENVOLVIMENTO DE JOGOS
+Professor: ANDRE MAURICIO CUNHA CAMPOS
+Score: 82.86 - Ministrou : 1 vez
+
+Nome Disciplina: DESENVOLVIMENTO DE SISTEMAS PARA INTERNET II
+Professor: CARLOS EDUARDO DA SILVA
+Score: 100.0 - Ministrou : 1 vez
+
+Nome Disciplina: DESENVOLVIMENTO DE SISTEMAS WEB
+Professor: JAIR CAVALCANTI LEITE
+Score: 100.0 - Ministrou : 1 vez
+
+Nome Disciplina: DESENVOLVIMENTO DE SISTEMAS WEB I
+Professor: JAIR CAVALCANTI LEITE
+Score: 93.27 - Ministrou : 2 vezes
+
+Nome Disciplina: DESENVOLVIMENTO DE SISTEMAS WEB II
+Professor: EVERTON RANIELLY DE SOUSA CAVALCANTE
+Score: 100.0 - Ministrou : 1 vez
+Professor: CARLOS EDUARDO DA SILVA
+Score: 76.92 - Ministrou : 1 vez
+
+Nome Disciplina: DESENVOLVIMENTO EM TIMES
+Professor: MARCO CESAR GOLDBARG
+Score: 89.88 - Ministrou : 2 vezes
+
+Nome Disciplina: DESENVOLVIMENTO PARA AMBIENTE DESKTOP
+Professor: JOAO CARLOS XAVIER JUNIOR
+Score: 100.0 - Ministrou : 1 vez
+
+Nome Disciplina: DESIGN DA INTERAÇÃO HUMANO-COMPUTADOR
+Professor: BRUNO SANTANA DA SILVA
+Score: 47.97 - Ministrou : 2 vezes
+
+Nome Disciplina: DESIGN DE SOFTWARE I
+Professor: ISABEL DILLMANN NUNES
+Score: 90.21 - Ministrou : 2 vezes
+
+Nome Disciplina: ELEM.DE PESQ.OPER.APLIC. A INDUST.DO PETROLEO
+Professor: MARCO CESAR GOLDBARG
+Score: 70.84 - Ministrou : 2 vezes
+
+Nome Disciplina: ELEMENTOS DE MATEMÁTICA PARA COMPUTAÇÃO
+Professor: ANDERSON PAIVA CRUZ
+Score: 43.75 - Ministrou : 1 vez
+Professor: BRUNO MOTTA DE CARVALHO
+Score: 14.29 - Ministrou : 1 vez
+
+Nome Disciplina: EMPREENDEDORISMO
+Professor: EDUARDO HENRIQUE DA SILVA ARANHA
+Score: 56.53 - Ministrou : 3 vezes
+
+Nome Disciplina: ENGENHARIA DE LINGUAGENS
+Professor: UMBERTO SOUZA DA COSTA
+Score: 33.07 - Ministrou : 3 vezes
+
+Nome Disciplina: ENGENHARIA DE REQUISITOS
+Professor: MARCIA JACYNTHA NUNES RODRIGUES LUCENA
+Score: 94.28 - Ministrou : 2 vezes
+Professor: LYRENE FERNANDES DA SILVA
+Score: 90.91 - Ministrou : 1 vez
+
+Nome Disciplina: ENGENHARIA DE SOFTWARE
+Professor: ROBERTA DE SOUZA COELHO
+Score: 83.33 - Ministrou : 1 vez
+
+Nome Disciplina: ESPECIFICACAO E VERIFICACAO DE PROGRAMAS
+Professor: UMBERTO RIVIECCIO
+Score: 90.0 - Ministrou : 1 vez
+Professor: REGIVAN HUGO NUNES SANTIAGO
+Score: 93.33 - Ministrou : 1 vez
+
+Nome Disciplina: ESTRUTURA DE DADOS BÁSICAS I
+Professor: EIJI ADACHI MEDEIROS BARBOSA
+Score: 35.54 - Ministrou : 3 vezes
+Professor: CESAR RENNO COSTA
+Score: 86.81 - Ministrou : 2 vezes
+Professor: SELAN RODRIGUES DOS SANTOS
+Score: 29.76 - Ministrou : 3 vezes
+Professor: LEONARDO CESAR TEONACIO BEZERRA
+Score: 22.22 - Ministrou : 1 vez
+
+Nome Disciplina: ESTRUTURAS DE DADOS BÁSICAS II
+Professor: JORGE ESTEFANO SANTANA DE SOUZA
+Score: 59.26 - Ministrou : 3 vezes
+Professor: SILVIA MARIA DINIZ MONTEIRO MAIA
+Score: 35.26 - Ministrou : 2 vezes
+
+Nome Disciplina: FUNDAMENTOS DE JOGOS DIGITAIS
+Professor: CHARLES ANDRYE GALVAO MADEIRA
+Score: 89.29 - Ministrou : 1 vez
+
+Nome Disciplina: FUNDAMENTOS DE SISTEMAS DE INFORMAÇÃO
+Professor: IRIS LINHARES PIMENTA
+Score: 91.89 - Ministrou : 1 vez
+Professor: ANDRE LUIZ DA SILVA SOLINO
+Score: 86.84 - Ministrou : 1 vez
+
+Nome Disciplina: FUNDAMENTOS MATEMÁTICOS DA COMPUTAÇÃO
+Professor: REGIVAN HUGO NUNES SANTIAGO
+Score: 18.18 - Ministrou : 1 vez
+
+Nome Disciplina: FUNDAMENTOS MATEMÁTICOS DA COMPUTAÇÃO I
+Professor: ATHANASIOS TSOUANAS
+Score: 9.77 - Ministrou : 3 vezes
+Professor: CARLOS AUGUSTO PROLO
+Score: 14.53 - Ministrou : 3 vezes
+
+Nome Disciplina: FUNDAMENTOS MATEMÁTICOS DA COMPUTAÇÃO II
+Professor: ATHANASIOS TSOUANAS
+Score: 9.82 - Ministrou : 3 vezes
+Professor: REGIVAN HUGO NUNES SANTIAGO
+Score: 39.29 - Ministrou : 1 vez
+Professor: UMBERTO RIVIECCIO
+Score: 33.33 - Ministrou : 1 vez
+Professor: LOURENA KARIN DE MEDEIROS ROCHA
+Score: 23.08 - Ministrou : 1 vez
+Professor: JOAO MARCOS DE ALMEIDA
+Score: 29.63 - Ministrou : 1 vez
+
+Nome Disciplina: FUNDAMENTOS MATEMÁTICOS DA COMPUTAÇÃO III
+Professor: JOAO MARCOS DE ALMEIDA
+Score: 63.16 - Ministrou : 1 vez
+Professor: UMBERTO RIVIECCIO
+Score: 63.16 - Ministrou : 1 vez
+
+Nome Disciplina: GEOMETRIA ANALÍTICA
+Professor: LOURENA KARIN DE MEDEIROS ROCHA
+Score: 21.43 - Ministrou : 1 vez
+
+Nome Disciplina: GERÊNCIA DE CONFIGURAÇÃO E MUDANÇAS
+Professor: GIBEON SOARES DE AQUINO JUNIOR
+Score: 100.0 - Ministrou : 1 vez
+Professor: EDUARDO HENRIQUE DA SILVA ARANHA
+Score: 100.0 - Ministrou : 1 vez
+
+Nome Disciplina: GESTÃO DE INFRAESTRUTURA DE TI
+Professor: ANDRE LUIZ DA SILVA SOLINO
+Score: 89.69 - Ministrou : 2 vezes
+
+Nome Disciplina: GRAFOS
+Professor: ELIZABETH FERREIRA GOUVEA GOLDBARG
+Score: 67.74 - Ministrou : 2 vezes
+
+Nome Disciplina: INFORMÁTICA FUNDAMENTAL
+Professor: CARLOS EDUARDO DA SILVA
+Score: 20.45 - Ministrou : 4 vezes
+Professor: FREDERICO ARAUJO DA SILVA LOPES
+Score: 16.75 - Ministrou : 4 vezes
+
+Nome Disciplina: INTELIGENCIA ARTIFICIAL
+Professor: ANNE MAGALY DE PAULA CANUTO
+Score: 100.0 - Ministrou : 1 vez
+Professor: MARJORY CRISTIANY DA COSTA ABREU
+Score: 100.0 - Ministrou : 1 vez
+
+Nome Disciplina: INTRODUÇÃO A ORGANIZAÇÃO E ARQUITETURA DE COMPUTADORES
+Professor: MONICA MAGALHAES PEREIRA
+Score: 62.96 - Ministrou : 1 vez
+Professor: GUSTAVO GIRAO BARRETO DA SILVA
+Score: 43.92 - Ministrou : 3 vezes
+
+Nome Disciplina: INTRODUÇÃO A TEORIA DOS NÚMEROS
+Professor: LOURENA KARIN DE MEDEIROS ROCHA
+Score: 62.5 - Ministrou : 1 vez
+
+Nome Disciplina: INTRODUÇÃO AO TESTE DE SOFTWARE
+Professor: EIJI ADACHI MEDEIROS BARBOSA
+Score: 88.89 - Ministrou : 1 vez
+
+Nome Disciplina: INTRODUÇÃO À GOVERNANÇA E GESTÃO DE TI
+Professor: IRIS LINHARES PIMENTA
+Score: 100.0 - Ministrou : 1 vez
+
+Nome Disciplina: INTRODUÇÃO ÀS TÉCNICAS DE PROGRAMAÇÃO
+Professor: ANDRE MAURICIO CUNHA CAMPOS
+Score: 44.44 - Ministrou : 1 vez
+Professor: ANDRE LUIZ DA SILVA SOLINO
+Score: 59.26 - Ministrou : 1 vez
+Professor: JOAO CARLOS XAVIER JUNIOR
+Score: 48.15 - Ministrou : 1 vez
+Professor: ISABEL DILLMANN NUNES
+Score: 61.4 - Ministrou : 2 vezes
+Professor: SILVIO COSTA SAMPAIO
+Score: 32.0 - Ministrou : 1 vez
+Professor: WELLINGTON SILVA DE SOUZA
+Score: 37.04 - Ministrou : 1 vez
+Professor: MARJORY CRISTIANY DA COSTA ABREU
+Score: 81.25 - Ministrou : 1 vez
+Professor: RAFAEL BESERRA GOMES
+Score: 57.69 - Ministrou : 1 vez
+
+Nome Disciplina: JOGOS DIGITAIS COMO FERRAMENTA PEDAGÓGICA
+Professor: CHARLES ANDRYE GALVAO MADEIRA
+Score: 88.46 - Ministrou : 1 vez
+
+Nome Disciplina: LABORATORIO DE PROJETO DE SISTEMAS OPERACIONAIS
+Professor: IVANOVITCH MEDEIROS DANTAS DA SILVA
+Score: 98.34 - Ministrou : 2 vezes
+
+Nome Disciplina: LABORATÓRIO DE CIRCUITOS LÓGICOS
+Professor: MARCIO EDUARDO KREUTZ
+Score: 32.02 - Ministrou : 4 vezes
+
+Nome Disciplina: LINGUAGEM DE PROGRAMAÇÃO I
+Professor: CESAR RENNO COSTA
+Score: 73.33 - Ministrou : 1 vez
+Professor: CHARLES ANDRYE GALVAO MADEIRA
+Score: 37.5 - Ministrou : 1 vez
+Professor: SILVIO COSTA SAMPAIO
+Score: 29.41 - Ministrou : 3 vezes
+Professor: SELAN RODRIGUES DOS SANTOS
+Score: 63.18 - Ministrou : 2 vezes
+Professor: EVERTON RANIELLY DE SOUSA CAVALCANTE
+Score: 28.57 - Ministrou : 1 vez
+Professor: UMBERTO SOUZA DA COSTA
+Score: 15.38 - Ministrou : 1 vez
+Professor: LEONARDO CESAR TEONACIO BEZERRA
+Score: 53.33 - Ministrou : 1 vez
+
+Nome Disciplina: LINGUAGEM DE PROGRAMAÇÃO II
+Professor: CESAR RENNO COSTA
+Score: 76.32 - Ministrou : 1 vez
+Professor: CARLOS EDUARDO DA SILVA
+Score: 68.75 - Ministrou : 1 vez
+Professor: JOAO CARLOS XAVIER JUNIOR
+Score: 92.86 - Ministrou : 1 vez
+
+Nome Disciplina: LINGUAGENS DE PROGRAMACAO: CONCEITOS E PARADIGMAS
+Professor: UMBERTO SOUZA DA COSTA
+Score: 52.87 - Ministrou : 3 vezes
+
+Nome Disciplina: LINGUAGENS DE PROGRAMAÇÃO
+Professor: LYRENE FERNANDES DA SILVA
+Score: 67.8 - Ministrou : 2 vezes
+Professor: MARCIA JACYNTHA NUNES RODRIGUES LUCENA
+Score: 57.91 - Ministrou : 2 vezes
+Professor: RAFAEL BESERRA GOMES
+Score: 26.09 - Ministrou : 1 vez
+
+Nome Disciplina: LINHAS DE PRODUTO DE SOFTWARE
+Professor: UIRA KULESZA
+Score: 100.0 - Ministrou : 1 vez
+
+Nome Disciplina: LOGICA APLICADA A COMPUTACAO
+Professor: JOAO MARCOS DE ALMEIDA
+Score: 20.0 - Ministrou : 1 vez
+
+Nome Disciplina: LÓGICA COMPUTACIONAL
+Professor: JOAO MARCOS DE ALMEIDA
+Score: 100.0 - Ministrou : 1 vez
+Professor: REGIVAN HUGO NUNES SANTIAGO
+Score: 92.0 - Ministrou : 1 vez
+
+Nome Disciplina: MODELOS DE NEGÓCIOS INOVADORES EM TI
+Professor: ANDERSON PAIVA CRUZ
+Score: 77.78 - Ministrou : 1 vez
+
+Nome Disciplina: MÉTODOS FORMAIS DE ENGENHARIA DE SOFTWARE
+Professor: MARCEL VINICIUS MEDEIROS OLIVEIRA
+Score: 53.1 - Ministrou : 3 vezes
+
+Nome Disciplina: ORGANIZACAO E ARQUITETURA DE COMPUTADORES
+Professor: MONICA MAGALHAES PEREIRA
+Score: 66.48 - Ministrou : 2 vezes
+Professor: MARCIO EDUARDO KREUTZ
+Score: 72.73 - Ministrou : 1 vez
+
+Nome Disciplina: PLANEJAMENTO E GERENCIAMENTO DE PROJETOS
+Professor: EDUARDO HENRIQUE DA SILVA ARANHA
+Score: 100.0 - Ministrou : 1 vez
+Professor: MARCIA JACYNTHA NUNES RODRIGUES LUCENA
+Score: 95.24 - Ministrou : 2 vezes
+
+Nome Disciplina: PRATICA DE BANCO DE DADOS
+Professor: MARCEL VINICIUS MEDEIROS OLIVEIRA
+Score: 54.34 - Ministrou : 3 vezes
+
+Nome Disciplina: PRATICA DE DESENVOLVIMENTO DE SISTEMAS WEB
+Professor: JAIR CAVALCANTI LEITE
+Score: 100.0 - Ministrou : 1 vez
+
+Nome Disciplina: PRINCÍPIOS DE LEGISLAÇÃO APLICÁVEIS À TECNOLOGIA DA INFORMAÇÃO E COMUNICAÇÃO DE DADOS
+Professor: SILVIO COSTA SAMPAIO
+Score: 68.83 - Ministrou : 2 vezes
+
+Nome Disciplina: PROBABILIDADE
+Professor: ANNE MAGALY DE PAULA CANUTO
+Score: 40.64 - Ministrou : 3 vezes
+
+Nome Disciplina: PROCESSAMENTO DE IMAGENS
+Professor: BRUNO MOTTA DE CARVALHO
+Score: 75.0 - Ministrou : 1 vez
+Professor: ANTONIO CARLOS GAY THOME
+Score: 75.0 - Ministrou : 2 vezes
+
+Nome Disciplina: PROCESSAMENTO DIGITAL DE SINAIS
+Professor: JULIO CESAR PAULINO DE MELO
+Score: 100.0 - Ministrou : 1 vez
+
+Nome Disciplina: PROCESSOS DE SOFTWARE
+Professor: EIJI ADACHI MEDEIROS BARBOSA
+Score: 62.5 - Ministrou : 2 vezes
+Professor: FERNANDO MARQUES FIGUEIRA FILHO
+Score: 60.55 - Ministrou : 3 vezes
+
+Nome Disciplina: PRODUÇÃO DE JOGOS DIGITAIS
+Professor: CHARLES ANDRYE GALVAO MADEIRA
+Score: 88.57 - Ministrou : 1 vez
+
+Nome Disciplina: PROGRAMAÇÃO COM BANCO DE DADOS
+Professor: JOAO CARLOS XAVIER JUNIOR
+Score: 55.0 - Ministrou : 2 vezes
+
+Nome Disciplina: PROGRAMAÇÃO CONCORRENTE
+Professor: MARCEL VINICIUS MEDEIROS OLIVEIRA
+Score: 100.0 - Ministrou : 1 vez
+Professor: EVERTON RANIELLY DE SOUSA CAVALCANTE
+Score: 95.83 - Ministrou : 2 vezes
+
+Nome Disciplina: PROGRAMAÇÃO DISTRIBUÍDA
+Professor: NELIO ALESSANDRO AZEVEDO CACHO
+Score: 20.0 - Ministrou : 1 vez
+Professor: FREDERICO ARAUJO DA SILVA LOPES
+Score: 100.0 - Ministrou : 1 vez
+
+Nome Disciplina: PROGRAMAÇÃO EM HARDWARE DE REDES
+Professor: JULIO CESAR PAULINO DE MELO
+Score: 66.67 - Ministrou : 1 vez
+
+Nome Disciplina: PROJETO DE INOVAÇÃO TECNOLÓGICA
+Professor: ANDERSON PAIVA CRUZ
+Score: 93.94 - Ministrou : 2 vezes
+
+Nome Disciplina: PROJETO DE INTERFACES DE USUÁRIO
+Professor: JAIR CAVALCANTI LEITE
+Score: 100.0 - Ministrou : 1 vez
+
+Nome Disciplina: PROJETO DE SISTEMAS OPERACIONAIS
+Professor: IVANOVITCH MEDEIROS DANTAS DA SILVA
+Score: 100.0 - Ministrou : 1 vez
+Professor: EDGARD DE FARIA CORREA
+Score: 100.0 - Ministrou : 1 vez
+
+Nome Disciplina: PROJETO DE SOFTWARE
+Professor: UIRA KULESZA
+Score: 91.67 - Ministrou : 1 vez
+
+Nome Disciplina: PROJETO DETALHADO DE SOFTWARE
+Professor: UIRA KULESZA
+Score: 73.75 - Ministrou : 2 vezes
+
+Nome Disciplina: PROJETO E ANÁLISE DE ALGORITMOS
+Professor: CARLOS AUGUSTO PROLO
+Score: 80.46 - Ministrou : 2 vezes
+
+Nome Disciplina: PROJETO INTEGRADO I
+Professor: IVANOVITCH MEDEIROS DANTAS DA SILVA
+Score: 83.34 - Ministrou : 2 vezes
+
+Nome Disciplina: PROJETO INTEGRADO II
+Professor: IVANOVITCH MEDEIROS DANTAS DA SILVA
+Score: 100.0 - Ministrou : 1 vez
+
+Nome Disciplina: PROJETOS BASEADOS EM MICROCONTROLADORES
+Professor: JULIO CESAR PAULINO DE MELO
+Score: 100.0 - Ministrou : 1 vez
+
+Nome Disciplina: PROPOSTA DE MONOGRAFIA DE GRADUACAO
+Professor: DAVID BORIS PAUL DEHARBE
+Score: 90.0 - Ministrou : 1 vez
+Professor: THAIS VASCONCELOS BATISTA
+Score: 85.71 - Ministrou : 1 vez
+Professor: MARTIN ALEJANDRO MUSICANTE
+Score: 70.0 - Ministrou : 1 vez
+
+Nome Disciplina: PROPOSTA DE TRABALHO DE CONCLUSÃO DE CURSO
+Professor: FERNANDO MARQUES FIGUEIRA FILHO
+Score: 100.0 - Ministrou : 1 vez
+Professor: MARTIN ALEJANDRO MUSICANTE
+Score: 77.78 - Ministrou : 1 vez
+
+Nome Disciplina: PRÁTICA DE ALGORITMOS E ESTRUTURAS DE DADOS I
+Professor: MARTIN ALEJANDRO MUSICANTE
+Score: 59.6 - Ministrou : 2 vezes
+
+Nome Disciplina: PRÁTICAS DE LEITURA E ESCRITA EM PORTUGUÊS I
+Professor: LUCELIO DANTAS DE AQUINO
+Score: 38.09 - Ministrou : 4 vezes
+Professor: WILLIAM BRENNO DOS SANTOS OLIVEIRA
+Score: 57.41 - Ministrou : 3 vezes
+
+Nome Disciplina: PRÁTICAS DE LEITURA E ESCRITA EM PORTUGUÊS II
+Professor: LUCELIO DANTAS DE AQUINO
+Score: 22.91 - Ministrou : 5 vezes
+Professor: WILLIAM BRENNO DOS SANTOS OLIVEIRA
+Score: 100.0 - Ministrou : 1 vez
+
+Nome Disciplina: PRÁTICAS DE TÉCNICAS DE PROGRAMAÇÃO
+Professor: JOAO CARLOS XAVIER JUNIOR
+Score: 12.22 - Ministrou : 4 vezes
+Professor: LEONARDO CUNHA DE MIRANDA
+Score: 58.34 - Ministrou : 2 vezes
+Professor: ANDRE LUIZ DA SILVA SOLINO
+Score: 0.0 - Ministrou : 1 vez
+Professor: ANDRE MAURICIO CUNHA CAMPOS
+Score: 31.94 - Ministrou : 4 vezes
+Professor: SILVIO COSTA SAMPAIO
+Score: 34.62 - Ministrou : 1 vez
+Professor: MARJORY CRISTIANY DA COSTA ABREU
+Score: 64.29 - Ministrou : 1 vez
+Professor: RAFAEL BESERRA GOMES
+Score: 68.42 - Ministrou : 1 vez
+
+Nome Disciplina: QUALIDADE DE SOFTWARE
+Professor: MARCO CESAR GOLDBARG
+Score: 100.0 - Ministrou : 1 vez
+
+Nome Disciplina: REDES DE COMPUTADORES
+Professor: MARCOS CESAR MADRUGA ALVES PINHEIRO
+Score: 76.47 - Ministrou : 1 vez
+Professor: SILVIO COSTA SAMPAIO
+Score: 60.61 - Ministrou : 1 vez
+Professor: WELLINGTON SILVA DE SOUZA
+Score: 78.95 - Ministrou : 2 vezes
+Professor: AUGUSTO JOSE VENANCIO NETO
+Score: 91.11 - Ministrou : 2 vezes
+
+Nome Disciplina: RESOLUÇÃO DE PROBLEMAS MATEMÁTICOS PARA TI
+Professor: ANDERSON PAIVA CRUZ
+Score: 29.63 - Ministrou : 1 vez
+Professor: CHARLES ANDRYE GALVAO MADEIRA
+Score: 14.01 - Ministrou : 4 vezes
+
+Nome Disciplina: SEGURANÇA DA INFORMAÇÃO
+Professor: IRIS LINHARES PIMENTA
+Score: 88.89 - Ministrou : 1 vez
+
+Nome Disciplina: SEGURANÇA DE REDES
+Professor: SILVIO COSTA SAMPAIO
+Score: 35.29 - Ministrou : 1 vez
+
+Nome Disciplina: SISTEMA DE INFORMAÇÃO DISTRIBUÍDO
+Professor: FREDERICO ARAUJO DA SILVA LOPES
+Score: 75.0 - Ministrou : 1 vez
+
+Nome Disciplina: SISTEMAS COLABORATIVOS DE APOIO À APRENDIZAGEM
+Professor: ADJA FERREIRA DE ANDRADE
+Score: 91.89 - Ministrou : 1 vez
+
+Nome Disciplina: SISTEMAS DE COMPUTAÇÃO
+Professor: AUGUSTO JOSE VENANCIO NETO
+Score: 66.67 - Ministrou : 1 vez
+
+Nome Disciplina: SISTEMAS DIGITAIS RECONFIGURÁVEIS
+Professor: JULIO CESAR PAULINO DE MELO
+Score: 66.66 - Ministrou : 2 vezes
+
+Nome Disciplina: SISTEMAS DISTRIBUIDOS
+Professor: EVERTON RANIELLY DE SOUSA CAVALCANTE
+Score: 100.0 - Ministrou : 1 vez
+
+Nome Disciplina: SISTEMAS EMBARCADOS
+Professor: MONICA MAGALHAES PEREIRA
+Score: 100.0 - Ministrou : 1 vez
+
+Nome Disciplina: SISTEMAS EMBARCADOS DE TEMPO REAL
+Professor: JULIO CESAR PAULINO DE MELO
+Score: 100.0 - Ministrou : 1 vez
+
+Nome Disciplina: SISTEMAS EMBUTIDOS
+Professor: EDGARD DE FARIA CORREA
+Score: 80.48 - Ministrou : 2 vezes
+
+Nome Disciplina: SISTEMAS MULTI - AGENTES
+Professor: ANNE MAGALY DE PAULA CANUTO
+Score: 50.0 - Ministrou : 1 vez
+
+Nome Disciplina: SISTEMAS OPERACIONAIS
+Professor: IVANOVITCH MEDEIROS DANTAS DA SILVA
+Score: 88.54 - Ministrou : 2 vezes
+
+Nome Disciplina: TECNOLOGIA DA INFORMAÇÃO E SOCIEDADE
+Professor: ADJA FERREIRA DE ANDRADE
+Score: 26.2 - Ministrou : 5 vezes
+Professor: BRUNO SANTANA DA SILVA
+Score: 71.77 - Ministrou : 2 vezes
+Professor: ISABEL DILLMANN NUNES
+Score: 80.0 - Ministrou : 1 vez
+
+Nome Disciplina: TEORIA DA COMPUTACAO
+Professor: MARTIN ALEJANDRO MUSICANTE
+Score: 64.71 - Ministrou : 1 vez
+Professor: BENJAMIN RENE CALLEJAS BEDREGAL
+Score: 34.09 - Ministrou : 3 vezes
+Professor: REGIVAN HUGO NUNES SANTIAGO
+Score: 28.95 - Ministrou : 1 vez
+
+Nome Disciplina: TESTE DE SOFTWARE I
+Professor: EDUARDO HENRIQUE DA SILVA ARANHA
+Score: 75.0 - Ministrou : 1 vez
+Professor: ROBERTA DE SOUZA COELHO
+Score: 94.12 - Ministrou : 1 vez
+
+Nome Disciplina: TESTE DE SOFTWARE II
+Professor: ROBERTA DE SOUZA COELHO
+Score: 92.85 - Ministrou : 2 vezes
+
+Nome Disciplina: TOPICOS ESPECIAIS EM COMPUTACAO IV
+Professor: MARTIN ALEJANDRO MUSICANTE
+Score: 0.0 - Ministrou : 1 vez
+
+Nome Disciplina: TOPICOS ESPECIAIS EM COMPUTACAO VI
+Professor: MARJORY CRISTIANY DA COSTA ABREU
+Score: 64.29 - Ministrou : 1 vez
+
+Nome Disciplina: TREINAMENTO PARA COMPETICOES DE PROGRAMACAO
+Professor: RAFAEL BESERRA GOMES
+Score: 55.56 - Ministrou : 1 vez
+
+Nome Disciplina: TÓPICOS ESPECIAIS EM BIOINFORMÁTICA "A"
+Professor: JORGE ESTEFANO SANTANA DE SOUZA
+Score: 70.59 - Ministrou : 1 vez
+
+Nome Disciplina: TÓPICOS ESPECIAIS EM COMPUTAÇÃO XIII
+Professor: ANTONIO CARLOS GAY THOME
+Score: 28.57 - Ministrou : 1 vez
+
+Nome Disciplina: TÓPICOS ESPECIAIS EM ENGENHARIA DE SOFTWARE I
+Professor: THAIS VASCONCELOS BATISTA
+Score: 36.36 - Ministrou : 1 vez
+
+Nome Disciplina: TÓPICOS ESPECIAIS EM ENGENHARIA DE SOFTWARE II
+Professor: THAIS VASCONCELOS BATISTA
+Score: 81.82 - Ministrou : 1 vez
+
+Nome Disciplina: TÓPICOS ESPECIAIS EM ENGENHARIA DE SOFTWARE IX
+Professor: ROBERTA DE SOUZA COELHO
+Score: 66.67 - Ministrou : 1 vez
+
+Nome Disciplina: TÓPICOS ESPECIAIS EM ENGENHARIA DE SOFTWARE VI
+Professor: LEONARDO CUNHA DE MIRANDA
+Score: 50.0 - Ministrou : 1 vez
+
+Nome Disciplina: TÓPICOS ESPECIAIS EM ENGENHARIA DE SOFTWARE VIII
+Professor: LYRENE FERNANDES DA SILVA
+Score: 0.0 - Ministrou : 1 vez
+Professor: LEONARDO CUNHA DE MIRANDA
+Score: 56.25 - Ministrou : 1 vez
+
+Nome Disciplina: TÓPICOS ESPECIAIS EM REDES DE COMPUTADORES "A"
+Professor: WELLINGTON SILVA DE SOUZA
+Score: 61.54 - Ministrou : 1 vez
+
+Nome Disciplina: TÓPICOS ESPECIAIS EM REDES DE COMPUTADORES "B"
+Professor: WELLINGTON SILVA DE SOUZA
+Score: 100.0 - Ministrou : 1 vez
+
+Nome Disciplina: TÓPICOS ESPECIAIS EM TECNOLOGIA DA INFORMAÇÃO VI
+Professor: IVANOVITCH MEDEIROS DANTAS DA SILVA
+Score: 77.78 - Ministrou : 1 vez
+
+Nome Disciplina: TÓPICOS ESPECIAIS EM TECNOLOGIA DA INFORMAÇÃO XI
+Professor: ATHANASIOS TSOUANAS
+Score: 75.0 - Ministrou : 1 vez
+
+Nome Disciplina: VETORES E GEOMETRIA ANALÍTICA
+Professor: SAMYR SILVA BEZERRA JACOME
+Score: 10.75 - Ministrou : 5 vezes
+
